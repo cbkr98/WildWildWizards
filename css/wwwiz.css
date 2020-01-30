@@ -1,0 +1,72 @@
+body {
+    background-color: #0e0e0e;
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: rgb(150, 150, 150);
+    background-color: #0e0e0e;
+}
+
+a:link {
+    color: #cc0000;
+}
+
+a:hover {
+    color: #990000;
+}
+
+a:visited {
+    color: #cc0000;
+}
+
+a.btn-primary.btn-ptg {
+    background-color: #cc0000;
+    border-color: #cc0000;
+    color: white;
+}
+
+a.btn-primary.btn-ptg:hover {
+    background-color: #990000;
+    border-color: #990000;
+    color: rgb(246, 246, 246);
+}
+
+.jumbotron {
+    position: relative;
+    min-height: 450px;
+    background-image: url("../images/www_box_art copy.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    z-index: -2;
+}
+
+.www-title {
+    color: #ffcc66;
+    font-family: 'Ultra', serif;
+    text-align: center;
+}
+
+.section-header {
+    font-family: 'Muli', sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+.card {
+    font-family: 'Roboto', sans-serif;
+}
+
+.www-bg-black {
+    background-color: #0e0e0e;
+}
+
+.www-bg-orange {
+    background-color: #ffcc66;
+}
+
+.www-text-red {
+    color: #cc0000;
+}
