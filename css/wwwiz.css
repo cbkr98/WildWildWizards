@@ -88,7 +88,7 @@ a.btn-primary.btn-ptg:hover {
   }
 }
 
-@media screen and (max-width: 388px) {
+@media screen and (min-width: 321px) and (max-width: 388px) {
   .www-title {
     font-size: 3rem;
   }
